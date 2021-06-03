@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the Lord Deputy General, and General Governor of His Majesties kingdom of Ireland. A declaration Tyrconnel, whereas several of the people of this kingdom have contrary to their duty and allegiance to his Majesty entred into several treasonable associations, ...</title>
+            <author>Ireland. Lord Deputy (1687-1689 : Tyrconnel)</author>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B24681</idno><idno type="EEBO-CITATION">99886365_190596</idno>
+  <idno type="VID">190596</idno>
+  <idno type="EEBO-PROQUEST">2264216284</idno>
+  
+            <idno type="STC">Wing I366</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.21.f.12[51]</idno>
+            <idno type="STC">Interim Tract Supplement Guide G.6022[50]</idno>
+            <idno type="STC">ESTC R225898</idno>
+            <idno type="PROQUEST">ocm99886365</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99886365e"/>
+            <note>(EEBO-TCP ; phase 2, no. B24681)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 190596)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C5:2[51]; C23:1[50])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the Lord Deputy General, and General Governor of His Majesties kingdom of Ireland. A declaration Tyrconnel, whereas several of the people of this kingdom have contrary to their duty and allegiance to his Majesty entred into several treasonable associations, ...</title>
+                  <author>Ireland. Lord Deputy (1687-1689 : Tyrconnel)</author>
+                  <author>Tyrconnel, Richard Talbot, Earl of, 1630-1691.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Andrew Crook and Samuel Helsham, assigns of Benjamin Tooke printer to the Kings most excellent Majesty; and are to be sold by Andrew Crook at his Majesties printing-house on Ormonde-Key, and by Samuel Helsham at the Colledge-Arms in Castle-street.,</publisher>
+                  <pubPlace>Dublin, :</pubPlace>
+                  <date>1688. [i.e. 1689]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from caption and opening lines of text.</note>
+                  <note>"Given at his Majesties castle of Dublin, the 1st day of March ...  1688/9.".</note>
+                  <note>Dates are given according to Lady Day dating.</note>
+                  <note>Owing to the formation of treasonable associations it has been found necessary to seize the arms and horses found in the country. Cf. Steele.</note>
+                  <note>Arms 185.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Ireland --  Armed forces --  Early works to 1800.</term>
+               <term type="geographic_name">Ireland --  History --  War of 1689-1691 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="declaration">
+            <pb facs="tcp:190596:1"/>
+            <head>
+               <figure>
+                  <figDesc>English coat of arms, circa 1688</figDesc>
+                  <p>HONI SOIT QVI MAL Y PENSE</p>
+                  <p>DIEV ET MON DROIT</p>
+               </figure>
+            </head>
+            <head>BY THE Lord Deputy General, AND General Governor of His Majesties Kingdom of IRELAND.</head>
+            <head type="sub">A DECLARATION</head>
+            <opener>
+               <salute>TYRCONNEL,</salute>
+            </opener>
+            <p>WHEREAS several of the people of this Kingdom have contrary to their Duty and Allegiance to His Majesty entred into several treasonable Associations, formed themselves into Regiments, Troops and Companies, seized upon several parcels of His Majesties Arms and Horses, murdred, plundred and pillaged many of his Majesties good Subjects, possessed themselves of strong Holds and Garrisons, and committed many other acts of Hostility, and have put many other slights and affronts upon the Government, at a time when We have em<g ref="char:EOLhyphen"/>ployed all Our care and industry to preserve the publick Peace of the Realm, and to protect all his Majesties Subjects in their persons, liberties and properties. And finding they were much incouraged thereunto by the quantities of Arms, and number of Horses they had in their hands, and by the Arms and Horses carried or sent to them out of the peaceable parts of this Realm by several persons dis<g ref="char:EOLhyphen"/>affected to the Government: And being enformed that the Prince of <hi>Orange</hi> doth resolve to land an Army here, with an intention to reduce this Kingdom under his power, and upon his landing to seize upon the Arms and Horses remaining in private mens possession to supply his occasions. We conceiving it fit to prevent these mischiefs, have given orders for seizing all the Arms and serviceable horses in particular mens hands within the most parts of this Kingdom, excepting such as belonged to any of His Majesties Privy Councel, or to any of his Majesties Army; which Orders We hope are by this time executed. And to the end that the several Inhabitants within this Realm may remain free from any apprehen<g ref="char:EOLhyphen"/>ion of being further searched or molested upon the account of Horses or Arms, and that they may be put in a way of satisfaction for the horses taken away from them, which shall not be restored, as hereafter is directed. And that his Ma<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>sty may have a perfect account of the Arms and horses seized upon for his use, <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ave thought fit, and do hereby strictly charge and command all Officers and Souldiers of his Majesties Army within this Realm, to bring in all the Arms and horses by them respectively seized upon, and to deliver the same to the re<g ref="char:EOLhyphen"/>spective Collonels under whom they respectively serve, upon pain of being Dis<g ref="char:EOLhyphen"/>banded,
+<pb facs="tcp:190596:2"/>banded, and of being for ever after made incapable of serving his Majesty in any Civil or Military Employment. And We do further strictly charge and com<g ref="char:EOLhyphen"/>mand all Collonels of the Army, that they do make diligent search and enquiry of all the Arms and horses seized upon by any of the Officers and Souldiers under their respective Commands, and to compel them to render an account thereof, and to procure the same to be delivered into their respective hands.</p>
+            <p>And We do further require all such Collonels to Restore to the right Ow<g ref="char:EOLhyphen"/>ners such of the said Horses as are not fit to be used in Troopes of Horse in the Kings Army, and that the said respective Colonels do forthwith send Us a parti<g ref="char:EOLhyphen"/>cular account under their hands of all the Serviceable Horses and Arms, that they and their under Officers or Soldiers have got into their hands; And We do also require the several persons within this Kingdom from whom any Horses or Arms were taken by virtue of our said Orders or under pretence thereof, to give in two Lists of such Arms and Horses, wherein they are to insert as near as they can the names of the persons who Seised upon such Horses and Arms, and to de<g ref="char:EOLhyphen"/>liver one of the said Lists to the Chief Officer of the County wherein they dwell, and the other to the High Sheriff of the County where they reside who are here<g ref="char:EOLhyphen"/>by required to transmit the same to Us, that a just satisfaction may be made to every person from whom such Horses were taken which shall not be restored to the owner: And We do further charge and command all Collonels who have Seized any Horses or Arms within the City or County of <hi>Corke,</hi> to deliver the same to Lieutenant General <hi>Mac-Carty</hi> who is to restore to the Owners such of the said Horses as are not Serviceable to be made use of in Troops of Horse, who is hereby required to take an exact account of such Arms and Horses and to transmit a List of them to Us, And We do also require all Officers and Soldiers and such o<g ref="char:EOLhyphen"/>thers as have seized any Arms or Horses within the City of <hi>Dublin</hi> or the Suburbs thereof, or within the Liberties of St. <hi>Thomas Court</hi> or St. <hi>Sepulcre,</hi> to deliver the same upon the penalties aforesaid to the Chief Officer in Command under Us within the <hi>City</hi> of <hi>Dublin,</hi> And VVe do strictly charge and command all Officers and Soldiers of his Majesties Army within this Realm, and all other persons whatsoever that they or either of them do not for the future presume to seize up<g ref="char:EOLhyphen"/>on any Fire Arms, Swords or Bagganets, or Horses belonging to any person or per<g ref="char:EOLhyphen"/>sons whatsoever, who are not or shall not appear to be in actual Rebellion against his Majesty under the penalty of being not only cashiered but to be looked upon as Robbers and Thieves, hereby forbiding any further Search or Entry to be made into the Houses, Out-houses or Stables of any person whatsoever for any such Arms or Horses. And VVe likewise forbid upon the penalties aforesaid any inter<g ref="char:EOLhyphen"/>ruption to be given to any Travellers, Passengers or others going upon their occa<g ref="char:EOLhyphen"/>sions to any place or places whatsoever; Excepting the Province of <hi>Ʋlster,</hi> and Town of <hi>Sligoe.</hi> And VVe do also hereby require all General Officers and Colonels of his Majesties Forces to restore to the Right Owners such Horses belonging to them as were commonly used for <hi>Plowing</hi> or <hi>Tillage,</hi> or were used commonly for the carriage of any goods, or for <hi>Hackney Coaches,</hi> or which persons made use of for Earning their Livelyhood.</p>
+            <closer>
+               <dateline>
+                  <hi>Given at his Majesties Castle of</hi> Dublin, <date>
+                     <hi>the</hi> 1st <hi>day of March</hi> In the Year of our Lord God. 1688/9.</date>
+               </dateline>
+               <signed>By his Excellencies Command VV. ELLIS</signed>
+            </closer>
+            <closer>GOD SAVE THE KING.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>DUBLIN,</p>
+            <p>Printed by <hi>Andrew Crook</hi> and <hi>Samuel Helsham,</hi> Assigns of <hi>Benjamin Tooke</hi> Printer to the Kings most Excellent Majesty; and are to be Sold by <hi>Andrew Crook</hi> at His Majesties Printing-house on <hi>Ormonde-Key,</hi> and by <hi>Samuel Helsham</hi> at the <hi>Colledge-Arms</hi> in <hi>Castle-street.</hi> 1688.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
